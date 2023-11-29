@@ -23,7 +23,7 @@
   </a>
 </p>
 <h2 align="center">How to reach me</h2>
-<h4 align="center">🔗 Linkedin<span style="text-decoration: underline;
+<h4 align="center">Linkedin<span style="text-decoration: underline;
     text-decoration-style: wavy;
     text-decoration-color: #402D8A;
     text-underline-offset: 4px;"></span></h4>
