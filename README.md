@@ -4,11 +4,11 @@
 </p>
 <h2 align="center">I'm a Jr. Fullstack Web Developer</h2>
 
-<h3 align="center">Web-Development used technologies 💻</h3>
 <p align="center">
     <p align="center">
       "From a young age, I've always been passionate about technology in all its aspects. From understanding how a device worked, to the point of taking it apart, to wondering how the Internet could reach everyone's homes. Over the years, I've developed that curiosity in every job I've had to deal with, until I landed in web development."
     </p>
+<h3 align="center">Web-Development used technologies 💻</h3>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,vue,vite,scss,php,laravel,java,spring,git,github,postman,maven,powershell,hibernate">
   </div>
